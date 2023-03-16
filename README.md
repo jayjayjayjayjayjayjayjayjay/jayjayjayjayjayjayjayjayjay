@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 
 </p>
 <br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cocobi24&theme=react&show_icons=true"/>
 
+![MINJAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayjayjayjayjayjayjayjayjay&show_icons=true&theme=radical)
+
+<div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjayjayjayjayjayjayjayjay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
