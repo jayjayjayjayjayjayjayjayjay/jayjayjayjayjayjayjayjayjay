@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 <p >
     <Strong>🛠 Skill </Strong><br>
 </p>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-8e3155?style=flat&logo=spring&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-A9D171?style=flat&logo=SPRINGBOOT&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle DB-000000?style=flat&logo=Oracle&logoColor=white">
-
 </p>
 <br>
 
